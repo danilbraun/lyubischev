@@ -8,5 +8,6 @@
 - [[lyubischev.org][Глава]] из методички
   [[https://libgen.rs/book/index.php?md5=A5CC947E9E260591F386DF8CCC4AC3E7]["Материалы
   в помощь начинающим научным работникам"]] (1991), в которой Любищев
-  описывает свою систему.
+  описывает свою систему
 - Статья [[https://web.archive.org/web/20240308130141/http://vivovoco.astronet.ru/VV/MISC/5/LUBI/LUBI.HTM]["Такая добровольная каторга"]]
+- [[https://www.youtube.com/playlist?list=PLiSMJ_WR39mpx-Brx6rixGXG8fWbKT6VZ][Серия видео]], снятых для НИУ ВШЭ, посвящённая Системе
