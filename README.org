@@ -11,3 +11,10 @@
   описывает свою систему
 - Статья [[https://web.archive.org/web/20240308130141/http://vivovoco.astronet.ru/VV/MISC/5/LUBI/LUBI.HTM]["Такая добровольная каторга"]]
 - [[https://www.youtube.com/playlist?list=PLiSMJ_WR39mpx-Brx6rixGXG8fWbKT6VZ][Серия видео]], снятых для НИУ ВШЭ, посвящённая Системе
+
+
+* Пользователи Системы
+
+- /Алексей Бабий/,
+  - [[https://web.archive.org/web/20240410135038/http://www.improvement.ru/bibliot/babiy.shtm]["Хронометраж, или Алгебра любви-3"]]
+  - [[https://web.archive.org/web/20231003161133/http://alex.krsk.ru/198_/1984/1984_10.htm]["Хронометраж"]] (выступление на семинаре по автоматизации научных исследований)
